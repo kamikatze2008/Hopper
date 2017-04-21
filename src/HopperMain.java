@@ -1,6 +1,5 @@
 import java.util.HashMap;
 import java.util.InputMismatchException;
-import java.util.LinkedList;
 import java.util.Scanner;
 
 public class HopperMain {
